@@ -13,3 +13,20 @@ This project simulates guessing the color of a coin with an unknown other side. 
 # Example
 ![Example](https://github.com/AIO-Develope/Coins-experiment/assets/69240351/c8229be9-9085-4b26-903a-dbbd4a67ac29)
 
+# Installation
+```
+matplotlib==3.7.1
+```
+To install the requirements run:
+```
+pip install -r requirements.txt
+```
+
+now you can start it with
+```
+1. python main.py  // When you run the simulation, it will generate the simulation results and display the corresponding diagram
+```
+
+# Info
+
+This project is just a randome upload i will not focus on it! but if someone ask for an improvement i will hear it.
