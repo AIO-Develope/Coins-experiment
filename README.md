@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 now you can start it with
 ```
-1. python main.py  // When you run the simulation, it will generate the simulation results and display the corresponding diagram
+1. python main.py  // Running the simulation generates results and the corresponding diagram
 ```
 
 # Info
